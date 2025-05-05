@@ -1,3 +1,2 @@
 *.dylib filter=lfs diff=lfs merge=lfs -text
-* text eol=lf
-* text=auto
+* text eol=crlf
